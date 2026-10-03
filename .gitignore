@@ -6,3 +6,5 @@ CMakeFiles
 *.cmake
 Makefile
 *.exe
+
+localtests
